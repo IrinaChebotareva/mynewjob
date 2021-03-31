@@ -7,7 +7,7 @@ public class ReadFiles {
 
     // вывод содержимого файла на консоль
 
-    public static void readFile1 (String file1) throws Exception{
+    public static String readFile1 (String file1) throws Exception{
         BufferedReader in = new BufferedReader(new FileReader("file1"));
         String line = in.readLine();
         while (line != null) {

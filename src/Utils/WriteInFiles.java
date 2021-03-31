@@ -7,7 +7,7 @@ public class WriteInFiles {
 
     // создание файла
 public static void fileCreate1 () throws Exception{
-        File file = new File("C:\\Job", "text.txt");
+        File file = new File("C:\\Job", "text33.txt");
 
     }
 

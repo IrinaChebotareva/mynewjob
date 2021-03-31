@@ -10,12 +10,12 @@ public class Main {
 
 WriteInFiles newFile = new WriteInFiles();
 
-File a1 = new File(newFile.);
+
 
 newFile.fileWrite1(a);
 
-        ReadFiles readFile = new ReadFiles();
-readFile.readFile1();
+        ReadFiles readFile2 = new ReadFiles();
+readFile2.readFile1();
 
 
 
