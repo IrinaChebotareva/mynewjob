@@ -15,5 +15,6 @@ public class ReadFiles {
             line = in.readLine();
         }
         in.close();
+        return "";
     }
 }
