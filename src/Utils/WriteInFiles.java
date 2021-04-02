@@ -21,7 +21,7 @@ import java.io.*;
 
 
         //запись переменной в файл
-        public static void fileWrite1 (String b) {
+        public void fileWrite1 (String b) {
 
             try (FileWriter writer = new FileWriter("C://Job/text335.txt",false)) {
 
